@@ -1,1 +1,7 @@
+fix some webserver bugs
+add live map with colored blips for each job
+add new tab for offline players
 
+files changed
+config.lua
+server/webserver.lua
